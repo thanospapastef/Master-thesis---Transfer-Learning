@@ -1,5 +1,7 @@
-# Transfer-learning-in-imagenet-dataset-classification
+# Transfer-learning--UCF-101-dataset-classification
 
-Extracting features from pre-trained models (VGG-16, GoogleNet, Xception)
+Preprocess images
+
+Extracting useful features from images, using pre-trained models (VGG-16, GoogleNet, Xception)
 
 Using extracted features to train a new model from scratch
